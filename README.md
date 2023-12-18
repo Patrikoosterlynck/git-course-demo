@@ -1,2 +1,11 @@
 # git-course-demo
-repo van tijdens de github workshop
+
+Repo van tijdens de github workshop.
+
+Development by INBO
+
+Extra input.
+
+xxx
+
+Merry Christmas! 🎅 
